@@ -3,8 +3,8 @@
 #### ✅ With drag and drop feature
 
 
+![Uploading React_App_-_7_August_2023__3__AdobeExpress_AdobeExpress_AdobeExpress (1).gif…]()
 
-https://github.com/FitsumGedefaw/Taskify/assets/91980891/74e8737f-cbbc-400a-8076-dd0bf6ffe56d
 
 
 <hr />
