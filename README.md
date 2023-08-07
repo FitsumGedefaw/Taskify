@@ -1,4 +1,4 @@
-# Taskify
+#🎯 Taskify
 ### ✅ An advanced Todo-list app built with typescript!
 #### ✅ With drag and drop feature
 
