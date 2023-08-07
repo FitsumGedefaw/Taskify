@@ -1,3 +1,10 @@
+# Taskify
+### An advanced Todo-list app built with typescript!
+#### With drag and drop feature
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
