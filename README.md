@@ -2,6 +2,11 @@
 ### ✅ An advanced Todo-list app built with typescript!
 #### ✅ With drag and drop feature
 
+
+
+https://github.com/FitsumGedefaw/Taskify/assets/91980891/74e8737f-cbbc-400a-8076-dd0bf6ffe56d
+
+
 <hr />
 
 
